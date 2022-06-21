@@ -18,7 +18,7 @@ El elemento `div` es de 2 rem, que equivale a 32px.
 
 El elemento `div` con la clase top-div es de 3rem, que equivale a 48px.
 
-![](D:\LAB\bedu-postwork02\test01.png)
+![test-imagen](/test01.png)
 
 ```html
 <!DOCTYPE html>
@@ -59,11 +59,11 @@ div {
 
 ## Trata de resolver tres problemas de Learn Git Branching.
 
-![](D:\LAB\bedu-postwork02\game01.png)
+![juego-imagen](/game01.png)
 
 ## Incluir dos fuentes de Google fonts en tu proyecto
 
-![](D:\LAB\bedu-postwork02\sitio01.png)
+![ejecucion-imagen](/sitio01.png)
 
 ```html
 <!DOCTYPE html>
